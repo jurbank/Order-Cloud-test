@@ -1,0 +1,15 @@
+{
+	"appname": "Order Cloud test",
+	"scope": "BuyerAdmin BuyerReader FullAccess",
+	"clientid": "AB2BD82B-9EFD-40DF-8FF9-2DCBB2417AE9",
+	"buyerid": null,
+	"catalogid": null,
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
